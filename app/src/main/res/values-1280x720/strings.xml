@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">屏幕适配工具</string>
+    <string name="str_name">values-1280x720</string>
+</resources>
